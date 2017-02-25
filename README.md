@@ -65,5 +65,5 @@ Tudo bem que foi pq eu estava na hora certa no lugar certo, porém com o BOT iss
 
 ## Links
 
--[http://nomadev.com.br/cryptsy-btcdoge/](http://nomadev.com.br/cryptsy-btcdoge/)
--[http://nomadev.com.br/altcoins-o-guia-quase-definitivo/](http://nomadev.com.br/altcoins-o-guia-quase-definitivo/)
+- [http://nomadev.com.br/cryptsy-btcdoge/](http://nomadev.com.br/cryptsy-btcdoge/)
+- [http://nomadev.com.br/altcoins-o-guia-quase-definitivo/](http://nomadev.com.br/altcoins-o-guia-quase-definitivo/)
