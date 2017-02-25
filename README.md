@@ -1,5 +1,8 @@
 # CryptoTraderz
-SOh malandragem virtual
+
+> Esse eh um grupo de investimento em cryptomoedas através de BOTs automatizados para compra e venda, nenhuma transação será feita manualmente!
+
+
 
 
 ## Exchanges
