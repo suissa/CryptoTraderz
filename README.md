@@ -6,6 +6,27 @@
 
 Todos os participantes irão começar colocando R$100 em BTC e ningueém poderaá tirar por 3 meses, depois desse tempo de validação dos BOTs seraá liberado qualquer valor.
 
+## Metas
+
+Acredito que após uma semana de validação dos BOTs eles deverão retornar **NO MINIMO** 10% de lucro POR DIA.
+
+<br>
+
+> Suissa vc eh loco meinnn???
+
+> \- Claro, mas isso naão vem ao caso.
+
+
+## Metodologia
+
+Uma metodologia de compra e venda que, **para mim** eé muito lógica eé de comprar uma moeda quando a mesma começar a subir e vender quando sinaliza que chegou em um pico e depois começa a descer.
+
+> Parece ilógico para você?
+
+
+Então analise esse gráfico, pois uma imagem vale mais que 1000 palavras, ehehhehe.
+
+![](https://cloud.githubusercontent.com/assets/106763/18077269/4f5deefc-6e39-11e6-9e3e-6d4bba583c03.png)
 
 ## Exchanges
 
