@@ -1,0 +1,2 @@
+# CryptoTraderz
+SOh malandragem virtual
