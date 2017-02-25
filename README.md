@@ -2,7 +2,9 @@
 
 > Esse eh um grupo de investimento em cryptomoedas através de BOTs automatizados para compra e venda, nenhuma transação será feita manualmente!
 
+## Investimento
 
+Todos os participantes irão começar colocando R$100 em BTC e ningueém poderaá tirar por 3 meses, depois desse tempo de validação dos BOTs seraá liberado qualquer valor.
 
 
 ## Exchanges
