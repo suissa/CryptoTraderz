@@ -8,7 +8,9 @@ Todos os participantes irão começar colocando R$100 em BTC e ningueém podera�
 
 ## Metas
 
-Acredito que após uma semana de validação dos BOTs eles deverão retornar **NO MINIMO** 10% de lucro POR DIA.
+Acredito que após um mês de validação dos BOTs eles deverão retornar **NO MINIMO** 100% de lucro no mes.
+
+*veremos, veremos*
 
 <br>
 
