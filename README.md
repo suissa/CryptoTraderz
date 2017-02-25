@@ -21,3 +21,24 @@ Depois partiremos para outras:
 
 - [ZenBot](https://github.com/carlos8f/zenbot)
 - [Gekko](https://github.com/askmike/gekko/)
+
+
+## Exemplos de ganhos
+
+Meu exemplo jaá tem alguns anos mas ainda serve para ilustrar o que faremos:
+
+> UPDATE 21/01/2014
+
+> Ontem comprei 10.000 doges a 129 satoshis e vendi no mesmo dia a 220 satoshis, agora coloquei mais 1000 a 280.
+
+[link original](http://nomadev.com.br/cryptsy-btcdoge/)
+
+<br>
+Tudo bem que foi pq eu estava na hora certa no lugar certo, porém com o BOT isso seraá mais fácil de atingir.
+
+## Metas
+
+## Links
+
+-[http://nomadev.com.br/cryptsy-btcdoge/](http://nomadev.com.br/cryptsy-btcdoge/)
+-[http://nomadev.com.br/altcoins-o-guia-quase-definitivo/](http://nomadev.com.br/altcoins-o-guia-quase-definitivo/)
